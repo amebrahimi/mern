@@ -12,6 +12,9 @@
 * reactstrap
 * uuid => Generate random ids
 * react-transition-group
+* redux 
+* react-redux
+* redux-thunk
 
 
 # Dev Dependencies
@@ -38,4 +41,5 @@ npm run client-install
 
 # Useful References
 
-[React Strap](https://reactstrap.github.io/components/alerts/ "Components")
+[React Strap](https://reactstrap.github.io/components/alerts/ "Components") <br>
+[Redux Store](https://redux.js.org/api/store)
