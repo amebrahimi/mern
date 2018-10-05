@@ -8,6 +8,11 @@
 
 ## Front End
 * globally needed create-react-app
+* bootstrap
+* reactstrap
+* uuid => Generate random ids
+* react-transition-group
+
 
 # Dev Dependencies
 
@@ -30,3 +35,7 @@ install client side dependencies
 ```
 npm run client-install
 ```
+
+# Useful References
+
+[React Strap](https://reactstrap.github.io/components/alerts/ "Components")
