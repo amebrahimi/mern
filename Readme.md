@@ -15,6 +15,7 @@
 * redux 
 * react-redux
 * redux-thunk
+* axios
 
 
 # Dev Dependencies
